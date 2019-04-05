@@ -1,0 +1,36 @@
+{
+        "pid": 1,
+        "pname": "Drypers Classic Pants L 48pcs",
+        "pprice": 1500,
+        "pdesc": "The diaper is not only less bulky, its thinner core absorbs and distributes urine effectively",
+        "pqty": 5,
+        "pimage": "https://i.ibb.co/pbXw2WZ/Drypers-Wee-Wee-dry-XXL-14pcs.png",
+        "pro_percntge": 0,
+        "promoDuration": 0,
+        "productCategory": null,
+        "active": false
+    },
+    {
+        "pid": 2,
+        "pname": "Drypers-Wee-Wee-dry-XL-16pcs",
+        "pprice": 2000,
+        "pdesc": "The diaper is not only less bulky, its thinner core absorbs and distributes urine effectively",
+        "pqty": 4,
+        "pimage": "https://i.ibb.co/W2K6bQ2/Drypers-Wee-Wee-dry-XL-16pcs.png",
+        "pro_percntge": 0,
+        "promoDuration": 0,
+        "productCategory": null,
+        "active": false
+    },
+    {
+        "pid": 3,
+        "pname": "Drypers-Wee-Wee-dry-S-22pcs",
+        "pprice": 1500,
+        "pdesc": " This makes the diaper hug your baby’s waist comfortably preventing it from slipping",
+        "pqty": 5,
+        "pimage": "https://i.ibb.co/P1Wfysd/Drypers-Wee-Wee-dry-S-22pcs.png",
+        "pro_percntge": 0,
+        "promoDuration": 0,
+        "productCategory": null,
+        "active": false
+    }
