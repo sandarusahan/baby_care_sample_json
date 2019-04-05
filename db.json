@@ -7,7 +7,7 @@
         "pimage": "https://i.ibb.co/pbXw2WZ/Drypers-Wee-Wee-dry-XXL-14pcs.png",
         "pro_percntge": 0,
         "promoDuration": 0,
-        "productCategory": null,
+        "productCategory": "Category 01",
         "active": false
     },
     {
@@ -19,6 +19,6 @@
         "pimage": "https://i.ibb.co/W2K6bQ2/Drypers-Wee-Wee-dry-XL-16pcs.png",
         "pro_percntge": 0,
         "promoDuration": 0,
-        "productCategory": null,
+        "productCategory": "Category 01",
         "active": false
     }
