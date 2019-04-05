@@ -21,16 +21,4 @@
         "promoDuration": 0,
         "productCategory": null,
         "active": false
-    },
-    {
-        "pid": 3,
-        "pname": "Drypers-Wee-Wee-dry-S-22pcs",
-        "pprice": 1500,
-        "pdesc": " This makes the diaper hug your baby’s waist comfortably preventing it from slipping",
-        "pqty": 5,
-        "pimage": "https://i.ibb.co/P1Wfysd/Drypers-Wee-Wee-dry-S-22pcs.png",
-        "pro_percntge": 0,
-        "promoDuration": 0,
-        "productCategory": null,
-        "active": false
     }
